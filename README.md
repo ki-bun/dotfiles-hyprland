@@ -2,6 +2,11 @@
 
 ---
 
+# Project Information
+WM: Hyprland
+Bar: Waybar
+Shell: Bash
+
 # Installation
 Clone the repository and run `install.sh`.
 ```
@@ -13,4 +18,4 @@ cd hyprbasic
 # Screenshots
 |Lockscreen|Homescreen|
 |:---|:---|
-|<img src="images/screenshots/lockscreen.png" alt="image">|<img src="images/screenshots/homescreen.png" alt="image">|
+|<img src="images/screenshots/lockscreen.png" alt="image">|<img src="images/screenshots/home.png" alt="image">|
