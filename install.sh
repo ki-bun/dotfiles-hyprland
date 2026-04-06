@@ -38,7 +38,8 @@ if [ "$proceed" = 'y' ]; then
 		cp -i .vimrc ~/
 	fi
 
-	matugen image images/7mSSR7w.png
+	# Initialize matugen
+	matugen image images/frieren_camp.png
 
 	cat << 'EOF' 
 	Post-installation instructions:
