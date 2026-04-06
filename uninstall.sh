@@ -5,13 +5,13 @@ EOF
 
 read -p "Proceed to uninstallation? [y/n]: " proceed
 
-if [ "$proceed" = 'y' ] then
+if [ "$proceed" = 'y' ]; then
 
 	rm -r ~/.config/*
 
 	read -p "Remove installed packages? [y/n]: " remove
 
-		if [ "$remove" = 'y' ] then
+		if [ "$remove" = 'y' ]; then
 			sudo pacman -Rns waybar fuzzel mako thunar adwaita-fonts thunar-archive-plugin hyprshot firefox
 			paru -Rns matugen-bin sunsetr-bin python-pywalfox awww-bin
 		fi
