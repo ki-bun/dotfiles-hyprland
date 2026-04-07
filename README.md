@@ -1,27 +1,13 @@
-# List of Contents
-- [Components](<#Components>)
-- [Screenshot](<#Screenshot>)
-- [Usage](<#Usage>)
+<h1 align="center">Hyprcozy</h1>
 
-# Components
-WM: [Hyprland](https://hypr.land/)
-
-Bar: [Waybar](https://github.com/alexays/waybar)
-
-Shell: [Bash](https://www.gnu.org/software/bash/)
-
-Color Generation Tool: [Matugen](https://github.com/InioX/matugen)
+<img src="images/screenshot/comfy.png" alt="image">
 
 # Installation
-Clone the repository and run `install.sh`.
 ```
-git clone https://github.com/esperime/cozyforest.git
-cd cozyforest
+git clone https://github.com/esperime/hyprcozy.git
+cd hyprcozy
 ./install.sh
 ```
-
-# Screenshot
-<img src="images/screenshot/comfy.png" alt="image">
 
 # Usage
 `SUPER + ENTER` - Launch Terminal emulator
