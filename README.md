@@ -16,4 +16,4 @@ cd dotfiles-hyprland
 ```
 
 # Screenshot
-<img src="images/screenshot/showcase.png" alt="image">
+<img src="images/screenshot/comfy.png" alt="image">
